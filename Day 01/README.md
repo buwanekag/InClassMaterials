@@ -17,7 +17,7 @@
 
 ### Resources:
 * Pre-Class Quiz
-* Presentation
+* Today's Keynote
 
 ### Additional Links:
 Note: Additional links are provided for those who want to go more in depth on a topic, or who need a topic to be explained in a different way. They are _NOT_ required reading, but may be helpful resources is you're stuck.
