@@ -16,7 +16,6 @@
 * Mission Possible
 
 ### Resources:
-* Pre-Class Quiz
 * Today's Keynote
 
 ### Additional Links:
