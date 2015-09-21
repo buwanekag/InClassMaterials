@@ -7,7 +7,7 @@
 * Basic Controls (UILabel, UIButton, UITextField)
 * Code Basics
 * Intro Delegates
-* Git & GitHub
+* Git & GitHub (for Homework)
 
 ### In Class Project:
 * Hello World!
@@ -17,6 +17,7 @@
 
 ### Resources:
 * Today's Keynote
+* Quiz Answers
 
 ### Additional Links:
 Note: Additional links are provided for those who want to go more in depth on a topic, or who need a topic to be explained in a different way. They are _NOT_ required reading, but may be helpful resources is you're stuck.
